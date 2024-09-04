@@ -7,9 +7,9 @@ const Hero = () => {
   return (
     <div className='hero container' >
         <div className="hero-text">
-            <h1>We ensure education for a better world</h1>
-            <p>Tell your visitors your story. Add catchy text to describe what you do, and what you have to offer. The right words can inspire and intrigue your audience, so they’re ready to take action on your site. To start telling your story, double click or click Edit Text.</p>
-            <button className='btn'>Explore more <img src={dark_arrow} alt=''/></button>
+            <h1>La solución integral para la gestión de tu edificio</h1>
+            <p>Gestiona tu empresa de manera eficiente. Clientes, vendedores, edificios, ventas, todo en un solo lugar. </p>
+            <button className='btn'>Explora más <img src={dark_arrow} alt=''/></button>
         </div>
     </div>
   )

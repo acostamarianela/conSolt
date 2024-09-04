@@ -13,11 +13,11 @@ const About = ({setPlayState}) => {
             }}/>
         </div>
         <div className="about-right">
-            <h3>About MT Soluciones Integrales</h3>
-            <h2>Nurturinf Tomorrow Leaders Today</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam laudantium dolores voluptatum expedita? Sed laborum quibusdam incidunt voluptatum, accusamus quam aperiam, consequatur, aspernatur voluptatem enim reiciendis omnis harum porro facere?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam laudantium dolores voluptatum expedita? Sed laborum quibusdam incidunt voluptatum, accusamus quam aperiam, consequatur, aspernatur voluptatem enim reiciendis omnis harum porro facere?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam laudantium dolores voluptatum expedita? Sed laborum quibusdam incidunt voluptatum, accusamus quam aperiam, consequatur, aspernatur voluptatem enim reiciendis omnis harum porro facere?</p>
+            <h3>Sobre "ConSolt"...</h3>
+            <h2>Creando el futuro del liderazgo</h2>
+            <p>Somos un equipo de estudiantes de la carrera de Licenciatura en Sistemas en la Universidad Cuenca del Plata de Formosa, apasionados por la tecnología y la innovación. Iniciamos este proyecto en el año 2024 como una iniciativa educativa en colaboración con una empresa del sector de soluciones integrales para edificios.</p>
+            <p>Nuestro objetivo inicial fue desarrollar una herramienta que optimizara la gestión de servicios y soluciones para edificaciones. A medida que avanzamos, nos dimos cuenta del potencial de nuestra solución y decidimos expandirnos al mercado para ofrecer nuestras capacidades a más empresas en el sector.</p>
+            <p>Hoy, estamos comprometidos a llevar nuestra experiencia y conocimiento al siguiente nivel, proporcionando una plataforma robusta y eficiente que facilita la administración interna de empresas que ofrecen servicios para edificios.</p>
         </div>
     </div>
   )

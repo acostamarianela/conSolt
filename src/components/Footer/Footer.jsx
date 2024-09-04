@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-        <p>Consortium Solutions. All rights deserved.</p>
+        <p>ConSolt. All rights deserved.</p>
         <ul>
             <li>
                 Term of Services

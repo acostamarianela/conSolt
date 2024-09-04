@@ -32,23 +32,23 @@ const Contact = () => {
   return (
     <div className='contact'>
         <div className="contact-col">
-            <h3>Send Us a Message <img src={msg_icon}/></h3>
-            <p>Feel free to contact us</p>
+            <h3>Envíanos un Mensaje <img src={msg_icon}/></h3>
+            <p>Sentite libre de contactarnos </p>
             <ul>
                 <li>consortiumsolutions@gmail.com</li>
                 <li>3704724277</li>
-                <li>Buenos Aires, ARG</li>
+                <li>Formosa, ARG</li>
             </ul>
         </div>
         <div className="contact-col">
             <form onSubmit={onSubmit}>
-                <label>Your name</label>
-                <input type='text' name='name' placeholder='Enter your name' required/>
-                <label>Phone Number</label>
-                <input type='tel' name='phone' placeholder='Enter your Mobile Number' required/>
-                <label>Write your message here </label>
-                <textarea name='message'  rows="6" placeholder='Enter your message' required></textarea>
-                <button type='submit' className='btn dark-btn'>Submit now</button>
+                <label>Tu nombre</label>
+                <input type='text' name='name' placeholder='Ingresa tu nombre' required/>
+                <label>Número de teléfono</label>
+                <input type='tel' name='phone' placeholder='Ingresa tu número de teléfono ' required/>
+                <label>Escribe tu mensaje aquí </label>
+                <textarea name='message'  rows="6" placeholder='Ingresa tu mensaje' required></textarea>
+                <button type='submit' className='btn dark-btn'>Enviar ahora</button>
             </form>
             <span>{result}</span>
         </div>
