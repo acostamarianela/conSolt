@@ -60,14 +60,25 @@
     align-items: center;
     margin-bottom: 20px;
     font-size: 15px;
+    
 }
 
 .user-info h3{
     color: #212EA0;
+    margin-bottom: 10px;
 }
 
 
+.user-info span {
+    color: #676767;
+    font-size: 13px;
+    margin-bottom: 10px; /* Añade espacio inferior */
+}
 
+.slide p {
+    margin-top: 20px; /* Añade espacio entre el texto del testimonio y la info del usuario */
+    line-height: 1.6; /* Aumenta el espaciado entre líneas del párrafo */
+}
 
 
 @media (max-width: 800px){
@@ -108,6 +119,6 @@
     }
 
     .slider p{
-        font-size: 12pz;
+        font-size: 12px;
     }
 }

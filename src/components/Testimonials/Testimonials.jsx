@@ -50,11 +50,11 @@ const Testimonials = () => {
               <div className='user-info'>
                 <img src={user_2} alt="User 2"/>
                 <div>
-                  <h3>Camille Jackson</h3>
-                  <span>Edusity, ARG</span>
+                  <h3>Abril Zacaria</h3>
+                  <span>Formosa, ARG</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p>
+              <p>Very good...</p>
             </div>
           </li>
           <li>
