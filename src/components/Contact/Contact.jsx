@@ -1,6 +1,9 @@
 import React from 'react'
 import './Contact.css'
-import msg_icon from '../../assets/msg_icon.jpeg'
+import msg_icon from '../../assets/msg-icon.png'
+import mail_icon from '../../assets/mail-icon.png'
+import phone_icon from '../../assets/phone-icon.png'
+import location_icon from '../../assets/location-icon.png'
 
 //agregar iconos a email telefono y direccion algun dia 1:53:00
 //agregar icon a submit tambien 1:59:00
@@ -35,9 +38,9 @@ const Contact = () => {
             <h3>Envíanos un Mensaje <img src={msg_icon}/></h3>
             <p>Sentite libre de contactarnos </p>
             <ul>
-                <li>consortiumsolutions@gmail.com</li>
-                <li>3704724277</li>
-                <li>Formosa, ARG</li>
+                <li> <img src={mail_icon}/>consortiumsolutions@gmail.com</li>
+                <li><img src={phone_icon}/>3704724277</li>
+                <li><img src={location_icon}/>Formosa, ARG</li>
             </ul>
         </div>
         <div className="contact-col">

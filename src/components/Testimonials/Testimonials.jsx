@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import './Testimonials.css';
-import next_icon from '../../assets/next_icon.png';
-import back_icon from '../../assets/back_icon.png';
+import next_icon from '../../assets/next-icon.png';
+import back_icon from '../../assets/back-icon.png';
 import user_1 from '../../assets/user_1.png';
 import user_2 from '../../assets/user_2.png';
 import user_3 from '../../assets/user_3.png';

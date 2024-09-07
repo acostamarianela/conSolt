@@ -15,7 +15,7 @@ const Campus = () => {
             <img src={gallery_3}/>
             <img src={gallery_4}/>
         </div>
-        <button className='btn'>See more here <img src={dark_arrow}/></button>
+        <button className='btn'>Vea más aquí <img src={dark_arrow}/></button>
     </div>
   )
 }

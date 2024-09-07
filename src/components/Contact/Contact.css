@@ -55,6 +55,11 @@
     margin: 20px 0;
 }
 
+.contact-col ul li img {
+    width: 20px; /* Cambia el tamaño de la imagen */
+    margin-right: 10px; /* Agrega espacio entre la imagen y el texto */
+}
+
 @media (max-width: 700px){
     .contact{
         display: block;
