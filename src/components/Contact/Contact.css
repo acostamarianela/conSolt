@@ -60,6 +60,11 @@
     margin-right: 10px; /* Agrega espacio entre la imagen y el texto */
 }
 
+.dark-btn:hover {
+    background-color: #212EA0; /* Cambia el color de fondo al hacer hover */
+    transform: scale(1.05); /* Hace el botón ligeramente más grande */
+}
+
 @media (max-width: 700px){
     .contact{
         display: block;
